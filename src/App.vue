@@ -136,7 +136,7 @@ function deployAgent() {
 
       <section class="token-banner">
         <div class="token-symbol"><Sparkles :size="25" /></div>
-        <div class="token-copy"><div class="eyebrow">OFFICIAL PLATFORM TOKEN · SOLANA</div><div class="token-title"><strong>$HYBRID</strong><span>Hybrid Agents</span></div><div class="token-address">9wk8xngMCkvraqg3nrPWrxxGKF33XMRz89MAV75epump</div></div>
+        <div class="token-copy"><div class="eyebrow">OFFICIAL PLATFORM TOKEN · SOLANA</div><div class="token-title"><strong>$HYBRID</strong><span>Hybrid Agents</span></div></div>
         <a class="outline-button" href="https://pump.fun" target="_blank" rel="noreferrer">View on pump.fun <ExternalLink :size="14" /></a>
       </section>
 
